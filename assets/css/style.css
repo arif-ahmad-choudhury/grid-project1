@@ -47,3 +47,39 @@ img{
     padding: 3px;
     border-radius: 5px;
 }
+.about-area {
+    padding: 20px 0;
+}
+.section-title{
+    text-align: center;
+    padding: 30px 0;
+}
+.section-title h2 {
+    font-size: 26px;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+}
+.about-box{
+    display:grid;
+    grid-template-columns:repeat(3 ,auto) ;
+    column-gap: 20px;
+}
+.single-about{
+    text-align:center;
+    border: 1px solid #f2f2f2;
+    padding: 40px 20px;
+}
+.single-about i{
+    font-size: 26px;
+    border: 1px solid #ddd;
+    width:60px;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 50%;
+
+}
+.single-about h4{
+    font-size:26px;
+    text-transform: capitalize;
+   margin: 20px 0;
+}
