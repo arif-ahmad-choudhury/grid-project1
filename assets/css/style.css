@@ -23,3 +23,21 @@ img{
     text-align: center;
     padding: 20px;
 }
+.header{
+    display:grid;
+    grid-template-columns: 1fr 3fr;
+    align-items: center;
+    padding: 20px 0;
+}
+.menu ul{
+    display:grid;
+    justify-self:end;
+    grid-template-columns: repeat(5,auto);
+}
+.menu ul li a{
+    display:block;
+    padding: 10px 15px;
+}
+.menu ul li a:hover{
+    color: rgb(241, 121, 8);
+}
