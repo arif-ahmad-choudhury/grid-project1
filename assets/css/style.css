@@ -36,8 +36,14 @@ img{
 }
 .menu ul li a{
     display:block;
-    padding: 10px 15px;
+   margin-left:25px;
 }
 .menu ul li a:hover{
     color: rgb(241, 121, 8);
+}
+.banner-area img{
+    width: 100%;
+    border:2px solid #ddd;
+    padding: 3px;
+    border-radius: 5px;
 }
