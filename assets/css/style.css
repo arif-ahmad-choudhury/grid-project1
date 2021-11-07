@@ -19,6 +19,22 @@ img{
     width: 1200px;
     margin: 0 auto;
 }
+.btn{
+    font-size: 18px;
+    text-transform: capitalize;
+    font-weight: bold;
+    padding: 10px;
+    display:inline-block;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    color: #fff;
+    background-color: tomato;
+    transition:.3s;
+}
+.btn:hover{
+    color:#f2f2f2;
+    background-color: #007F80;
+}
 .section-title{
     text-align: center;
     padding: 20px;
@@ -89,11 +105,17 @@ img{
     column-gap:40px;
 }
 .single-service{
-
+ border:1px solid #ddd;
+ padding: 20px;
 }
 .single-service h2{
-    
+    font-size: 26px;
+    margin-bottom: 10px;
+    text-align: center;
+    text-transform: capitalize;  
+    background-color:#007F80;  
 }
 .single-service p{
-    
+    font-size: 18px;
+    margin-bottom: 10px;
 }
