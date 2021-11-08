@@ -146,3 +146,10 @@ img {
     font-size: 18px;
     margin: 10px 0;
 }
+.gallery{
+    display:grid;
+    grid-template-columns: repeat(4,auto);   
+}
+.single-gallery{
+    margin: 10px;
+}
