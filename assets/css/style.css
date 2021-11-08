@@ -149,7 +149,10 @@ img {
 .gallery{
     display:grid;
     grid-template-columns: repeat(4,auto);   
+    grid-gap: 20px;
 }
-.single-gallery{
-    margin: 10px;
+.single-gallery img{
+    border:1px solid #ddd;
+    padding: 3px;
+    border-radius: 5px;
 }
