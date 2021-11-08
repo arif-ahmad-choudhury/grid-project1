@@ -79,7 +79,9 @@ img {
 .about-area {
     padding: 20px 0;
 }
-
+.services-area {
+    background-color: #f2f3f2;
+}
 .section-title {
     text-align: center;
     padding: 30px 0;
