@@ -36,10 +36,7 @@
     .about-left h2,
     .about-menu h2 {
         font-size: 26px;
-    }
-
-    
-    
+    }       
 
     .single-gallery {
         width: 135px;
@@ -85,13 +82,11 @@
     .about-menu {
         width: 190px;
     }
-
     .about-left h2,
     .about-menu h2 {
         font-size: 20px;
         margin-bottom: 15px;
     }
-
 
 }
 
@@ -110,38 +105,29 @@
     .about-left {
         margin-bottom: 30px;
     }
-
     .menu ul {
         text-align: left;
-    }
-
-    
+    }    
 
     .single-service {
         width: 100%;
         margin-bottom: 30px;
     }
-
     .about-left h2,
     .about-menu h2 {
         font-size: 22px;
         margin-bottom: 10px;
     }
-
     .service-page .single-service,
     .single-gallery {
         width: 100%;
     }
-
     .page-banner h2 {
         font-size: 35px;
         line-height: 45px;
-    }
-
-  
+    }  
 
 }
-
 @media only screen and (min-width: 480px) and (max-width: 767px) {
     .area {
         width: 450px;
