@@ -162,8 +162,8 @@ img {
 }
 .contact{
  display:grid;
-  grid-template-columns:repeat(2,auto); 
-
+  grid-template-columns:60% 40%; 
+  column-gap: 20px;
 }
 .contact-form input,.contact-form textarea{
 width: 100%;
