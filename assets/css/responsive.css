@@ -11,11 +11,9 @@
     .single-service {
         width: 303px;
     }
-
     .single-page .single-service {
         width: 293px;
     }
-
     .single-service:nth-child(4),
     .single-service:last-child {
         margin-right: 30px !important;
