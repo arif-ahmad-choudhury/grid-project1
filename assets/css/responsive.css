@@ -3,11 +3,9 @@
     .area {
         width: 970px;
     }
-
     .menu {
         width: 650px;
     }
-
     .single-service {
         width: 303px;
     }
@@ -18,7 +16,6 @@
     .single-service:last-child {
         margin-right: 30px !important;
     }
-
     .single-gallery {
         width: 222px;
     }
@@ -50,15 +47,12 @@
     .logo {
         width: 180px;
     }
-
     .menu {
         width: 500px;
     }
-
     .menu ul {
         margin-top: 3px;
     }
-
     .menu ul li a {
         padding: 10px;
     }
